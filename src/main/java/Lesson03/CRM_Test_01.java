@@ -1,6 +1,6 @@
 package Lesson03;
 
-// CRM  не работает! Увы потом доделаю! (сории)
+// CRM  не работает! Увы потом доделаю! (сории)*
 
 
 import org.openqa.selenium.By;

@@ -1,5 +1,7 @@
 package Lesson03;
 
+// CRM  не работает! Увы потом доделаю! (сории)
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
